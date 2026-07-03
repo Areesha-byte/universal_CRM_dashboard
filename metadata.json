@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia CRM",
+  "description": "A luxury high-end enterprise CRM dashboard with premium glassmorphism design, real-time analytics, visual pipelines, tasks, calendars, and customer profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
